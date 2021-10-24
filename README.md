@@ -4,8 +4,8 @@ The purpose of this analysis is to analyze the temperature statistics in the mon
 ## results 
 ### 3 key differences in weather between June and December 
 The three key differences between June and December are that the average temperature was only different by about 3 degrees. However the range of temperature change was greater in December than in June. In December, the lowest temperature recorded was 56F and the highest was 83F. While in June the range was from 64F to 85F. Aside from the temperature, there are more data points recorded for June (1700) than December (1517). 
-![june_temp_stats.png]
-![decem_temp_stats.png]
+![june_temp_stats.png](https://github.com/shirll98/surfs_up/blob/main/june_temp_stats.png)
+![decem_temp_stats.png](https://github.com/shirll98/surfs_up/blob/main/decem_temp_stats.png)
 
 
 ## summary
